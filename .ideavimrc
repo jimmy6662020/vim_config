@@ -1,0 +1,2 @@
+:inoremap aa <esc>
+:nnoremap aa  i
